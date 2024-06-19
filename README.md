@@ -49,3 +49,4 @@
 
     python face.py
 <p>Follow the on-screen instructions to start detecting faces.</p>
+<H3>Thanks to the project developer Miss Aram Ghodarzi</H3>
